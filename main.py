@@ -1,4 +1,4 @@
-# pip install -r req.txt
+#  pip install -r req.txt
 from telebot.types import BotCommand
 from pytube import YouTube
 from rembg import remove
