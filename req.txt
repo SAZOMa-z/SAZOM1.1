@@ -8,5 +8,4 @@ speedtest
 speedtest-cli
 gtts
 flask
-threading
 googletrans
